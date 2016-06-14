@@ -7,11 +7,16 @@ import static junit.framework.TestCase.assertEquals;
 public class MultiplicationTest {
 
     @Test
-    public void testMultiplication() {
-        Dollar five = new Dollar(5);
-        Dollar product = five.times(2);
-        assertEquals(10, product.amount);
-        product = five.times(3);
-        assertEquals(15, product.amount);
+    public void testDollarMultiplication() {
+        Money five = Money.dollar(5);
+        assertEquals(Money.dollar(10), five.times(2));
+        assertEquals(Money.dollar(15), five.times(3));
+    }
+
+    @Test
+    public void testFrancMultiplication() {
+        Money five = Money.franc(5);
+        assertEquals(Money.franc(10), five.times(2));
+        assertEquals(Money.franc(15), five.times(3));
     }
 }
