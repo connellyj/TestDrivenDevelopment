@@ -2,14 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9112190f-0364-4452-801d-2f58d556b710" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/TDD/Franc.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/TDD/Money.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/TDD/EqualityTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/TDD/CurrencyTest.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/TestDrivenDevelopment/TDD/Dollar.class" afterPath="$PROJECT_DIR$/out/production/TestDrivenDevelopment/TDD/Dollar.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/test/TestDrivenDevelopment/TDD/MultiplicationTest.class" afterPath="$PROJECT_DIR$/out/test/TestDrivenDevelopment/TDD/MultiplicationTest.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TDD/Dollar.java" afterPath="$PROJECT_DIR$/src/TDD/Dollar.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tests/TDD/MultiplicationTest.java" afterPath="$PROJECT_DIR$/tests/TDD/MultiplicationTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TDD/Franc.java" afterPath="$PROJECT_DIR$/src/TDD/Franc.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TDD/Money.java" afterPath="$PROJECT_DIR$/src/TDD/Money.java" />
     </list>
     <ignored path="TestDrivenDevelopment.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -36,12 +34,10 @@
         <entry file="file://$PROJECT_DIR$/src/TDD/Dollar.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+              <caret line="3" column="35" selection-start-line="3" selection-start-column="35" selection-end-line="3" selection-end-column="35" />
               <folding>
-                <element signature="e#74#75#0" expanded="true" />
-                <element signature="e#110#111#0" expanded="true" />
-                <element signature="e#153#154#0" expanded="true" />
-                <element signature="e#207#208#0" expanded="true" />
+                <element signature="e#179#180#0" expanded="true" />
+                <element signature="e#233#234#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -50,13 +46,27 @@
       <file leaf-file-name="Money.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/TDD/Money.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.74626863">
-              <caret line="20" column="41" selection-start-line="20" selection-start-column="41" selection-end-line="20" selection-end-column="41" />
+            <state vertical-scroll-proportion="0.079155676">
+              <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
               <folding>
-                <element signature="e#282#283#0" expanded="true" />
-                <element signature="e#323#324#0" expanded="true" />
-                <element signature="e#368#369#0" expanded="true" />
-                <element signature="e#408#409#0" expanded="true" />
+                <element signature="e#313#314#0" expanded="true" />
+                <element signature="e#354#355#0" expanded="true" />
+                <element signature="e#399#400#0" expanded="true" />
+                <element signature="e#439#440#0" expanded="true" />
+                <element signature="e#471#472#0" expanded="true" />
+                <element signature="e#502#503#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CurrencyTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tests/TDD/CurrencyTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="11" column="39" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -66,12 +76,10 @@
         <entry file="file://$PROJECT_DIR$/src/TDD/Franc.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="10" column="46" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
+              <caret line="3" column="34" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="34" />
               <folding>
-                <element signature="e#72#73#0" expanded="true" />
-                <element signature="e#108#109#0" expanded="true" />
-                <element signature="e#150#151#0" expanded="true" />
-                <element signature="e#203#204#0" expanded="true" />
+                <element signature="e#176#177#0" expanded="true" />
+                <element signature="e#229#230#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -81,10 +89,8 @@
         <entry file="file://$PROJECT_DIR$/tests/TDD/MultiplicationTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="19" column="53" selection-start-line="19" selection-start-column="53" selection-end-line="19" selection-end-column="53" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+              <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="52" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -124,12 +130,13 @@
         <option value="$PROJECT_DIR$/src/tests/MultiplicationTest.java" />
         <option value="$PROJECT_DIR$/tests/MultiplicationTest.java" />
         <option value="$PROJECT_DIR$/src/TDD/MultiCurrencyMoney.java" />
-        <option value="$PROJECT_DIR$/src/TDD/Dollar.java" />
         <option value="$PROJECT_DIR$/src/TDD/Francs.java" />
-        <option value="$PROJECT_DIR$/src/TDD/Franc.java" />
-        <option value="$PROJECT_DIR$/src/TDD/Money.java" />
         <option value="$PROJECT_DIR$/tests/TDD/EqualityTest.java" />
         <option value="$PROJECT_DIR$/tests/TDD/MultiplicationTest.java" />
+        <option value="$PROJECT_DIR$/tests/TDD/CurrencyTest.java" />
+        <option value="$PROJECT_DIR$/src/TDD/Dollar.java" />
+        <option value="$PROJECT_DIR$/src/TDD/Franc.java" />
+        <option value="$PROJECT_DIR$/src/TDD/Money.java" />
       </list>
     </option>
   </component>
@@ -776,8 +783,15 @@
       <created>1465932079672</created>
       <option name="number" value="Default" />
       <updated>1465932079672</updated>
-      <workItem from="1465932082895" duration="6879000" />
+      <workItem from="1465932082895" duration="9329000" />
     </task>
+    <task id="LOCAL-00001" summary="through ch8">
+      <created>1465941221269</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1465941221269</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -786,9 +800,6 @@
     </history-entry>
     <history-entry file="All_in_TestDrivenDevelopment - 2016.06.14 at 16h 24m 30s.xml">
       <configuration name="All in TestDrivenDevelopment" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TDD_in_TestDrivenDevelopment - 2016.06.14 at 16h 17m 30s.xml">
-      <configuration name="TDD in TestDrivenDevelopment" configurationId="JUnit" />
     </history-entry>
     <history-entry file="TDD_in_TestDrivenDevelopment - 2016.06.14 at 16h 24m 54s.xml">
       <configuration name="TDD in TestDrivenDevelopment" configurationId="JUnit" />
@@ -811,9 +822,12 @@
     <history-entry file="TDD_in_TestDrivenDevelopment - 2016.06.14 at 16h 52m 17s.xml">
       <configuration name="TDD in TestDrivenDevelopment" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="TDD_in_TestDrivenDevelopment - 2016.06.15 at 08h 14m 21s.xml">
+      <configuration name="TDD in TestDrivenDevelopment" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6879000" />
+    <option name="totallyTimeSpent" value="9329000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="410" y="144" width="1204" height="710" extended-state="0" />
@@ -826,10 +840,10 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32917318" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34142396" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25903615" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32917318" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -846,6 +860,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="through ch8" />
+    <option name="LAST_COMMIT_MESSAGE" value="through ch8" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -869,7 +887,15 @@
     <entry file="file://$PROJECT_DIR$/tests/TDD/MultiplicationTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="19" column="53" selection-start-line="19" selection-start-column="53" selection-end-line="19" selection-end-column="53" />
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/TDD/CurrencyTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="39" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -879,12 +905,10 @@
     <entry file="file://$PROJECT_DIR$/src/TDD/Dollar.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <caret line="3" column="35" selection-start-line="3" selection-start-column="35" selection-end-line="3" selection-end-column="35" />
           <folding>
-            <element signature="e#74#75#0" expanded="true" />
-            <element signature="e#110#111#0" expanded="true" />
-            <element signature="e#153#154#0" expanded="true" />
-            <element signature="e#207#208#0" expanded="true" />
+            <element signature="e#179#180#0" expanded="true" />
+            <element signature="e#233#234#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -892,25 +916,25 @@
     <entry file="file://$PROJECT_DIR$/src/TDD/Franc.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="10" column="46" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
+          <caret line="3" column="34" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="34" />
           <folding>
-            <element signature="e#72#73#0" expanded="true" />
-            <element signature="e#108#109#0" expanded="true" />
-            <element signature="e#150#151#0" expanded="true" />
-            <element signature="e#203#204#0" expanded="true" />
+            <element signature="e#176#177#0" expanded="true" />
+            <element signature="e#229#230#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/TDD/Money.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.74626863">
-          <caret line="20" column="41" selection-start-line="20" selection-start-column="41" selection-end-line="20" selection-end-column="41" />
+        <state vertical-scroll-proportion="0.079155676">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
           <folding>
-            <element signature="e#282#283#0" expanded="true" />
-            <element signature="e#323#324#0" expanded="true" />
-            <element signature="e#368#369#0" expanded="true" />
-            <element signature="e#408#409#0" expanded="true" />
+            <element signature="e#313#314#0" expanded="true" />
+            <element signature="e#354#355#0" expanded="true" />
+            <element signature="e#399#400#0" expanded="true" />
+            <element signature="e#439#440#0" expanded="true" />
+            <element signature="e#471#472#0" expanded="true" />
+            <element signature="e#502#503#0" expanded="true" />
           </folding>
         </state>
       </provider>

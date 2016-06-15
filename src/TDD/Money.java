@@ -4,6 +4,7 @@ package TDD;
 public abstract class Money {
 
     protected int amount;
+    protected String currency;
 
     public boolean equals(Object object) {
         Money money = (Money) object;
@@ -16,6 +17,10 @@ public abstract class Money {
 
     public static Money franc(int amount) {
         return new Franc(amount);
+    }
+
+    public String currency() {
+        return currency;
     }
 
     abstract Money times(int multiplier);
